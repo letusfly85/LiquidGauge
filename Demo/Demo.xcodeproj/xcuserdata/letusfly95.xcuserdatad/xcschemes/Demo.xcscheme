@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B92A3D861CB39F0E00142021"
-               BuildableName = "LiquidGauge.framework"
-               BlueprintName = "LiquidGauge"
-               ReferencedContainer = "container:LiquidGauge.xcodeproj">
+               BlueprintIdentifier = "B92A3DA91CB39F6200142021"
+               BuildableName = "Demo.app"
+               BlueprintName = "Demo"
+               ReferencedContainer = "container:Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B92A3D901CB39F0E00142021"
-               BuildableName = "LiquidGaugeTests.xctest"
-               BlueprintName = "LiquidGaugeTests"
-               ReferencedContainer = "container:LiquidGauge.xcodeproj">
+               BlueprintIdentifier = "B92A3DBD1CB39F6200142021"
+               BuildableName = "DemoTests.xctest"
+               BlueprintName = "DemoTests"
+               ReferencedContainer = "container:Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B92A3DC81CB39F6200142021"
+               BuildableName = "DemoUITests.xctest"
+               BlueprintName = "DemoUITests"
+               ReferencedContainer = "container:Demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B92A3D861CB39F0E00142021"
-            BuildableName = "LiquidGauge.framework"
-            BlueprintName = "LiquidGauge"
-            ReferencedContainer = "container:LiquidGauge.xcodeproj">
+            BlueprintIdentifier = "B92A3DA91CB39F6200142021"
+            BuildableName = "Demo.app"
+            BlueprintName = "Demo"
+            ReferencedContainer = "container:Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -61,15 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B92A3D861CB39F0E00142021"
-            BuildableName = "LiquidGauge.framework"
-            BlueprintName = "LiquidGauge"
-            ReferencedContainer = "container:LiquidGauge.xcodeproj">
+            BlueprintIdentifier = "B92A3DA91CB39F6200142021"
+            BuildableName = "Demo.app"
+            BlueprintName = "Demo"
+            ReferencedContainer = "container:Demo.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -79,15 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B92A3D861CB39F0E00142021"
-            BuildableName = "LiquidGauge.framework"
-            BlueprintName = "LiquidGauge"
-            ReferencedContainer = "container:LiquidGauge.xcodeproj">
+            BlueprintIdentifier = "B92A3DA91CB39F6200142021"
+            BuildableName = "Demo.app"
+            BlueprintName = "Demo"
+            ReferencedContainer = "container:Demo.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
